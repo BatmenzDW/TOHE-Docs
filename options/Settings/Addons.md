@@ -42,7 +42,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#miscellaneous" style="color:#a83295"><b>⚙️ Miscellaneous</b></a></td>
-<td align="center">6</td>
+<td align="center">7</td>
 </tr>
 
 <tr>
@@ -85,7 +85,7 @@ next: /Roles.html
 
 ### <font color=#a83295><b>Miscellaneous</b></font>
 ---
-[Egoist](/options/Addons/Miscellaneous/Egoist.html) | [Lovers](/options/Addons/Miscellaneous/Lovers.html) | [Rainbow](/options/Addons/Miscellaneous/Rainbow.html) | [Reach](/options/Addons/Miscellaneous/Reach.html) | [Workhorse](/options/Addons/Miscellaneous/Workhorse.html) | [YouTuber](/options/Addons/Miscellaneous/YouTuber.html)
+[Egoist](/options/Addons/Miscellaneous/Egoist.html) | [Lovers](/options/Addons/Miscellaneous/Lovers.html) | [Narc](/options/Addons/Miscellaneous/Narc.md) | [Rainbow](/options/Addons/Miscellaneous/Rainbow.html) | [Reach](/options/Addons/Miscellaneous/Reach.html) | [Workhorse](/options/Addons/Miscellaneous/Workhorse.html) | [YouTuber](/options/Addons/Miscellaneous/YouTuber.html)
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
