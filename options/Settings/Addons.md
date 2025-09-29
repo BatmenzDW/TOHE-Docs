@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#helpful" style="color:#00ff00"><b>🤑 Helpful</b></a></td>
-<td align="center">24</td>
+<td align="center">25</td>
 </tr>
 
 <tr>
@@ -75,7 +75,7 @@ next: /Roles.html
 
 ### <font color=#00ff00><b>Helpful</b></font>
 ---
-[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Eavesdropper](/options/Addons/Helpful/Eavesdropper.html) | [Evader](/options/Addons/Helpful/Evader.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Radar](/options/Addons/Helpful/Radar.html) | [Rebirth](/options/Addons/Helpful/Rebirth.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Spurt](/options/Addons/Helpful/Spurt.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
+[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Eavesdropper](/options/Addons/Helpful/Eavesdropper.html) | [Evader](/options/Addons/Helpful/Evader.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) |  [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Radar](/options/Addons/Helpful/Radar.html) | [Rat](/options/Addons/Helpful/Rat.html) | [Rebirth](/options/Addons/Helpful/Rebirth.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Spurt](/options/Addons/Helpful/Spurt.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
@@ -100,10 +100,16 @@ Below are settings to make the game more balanced based on your lobby's style of
 * Display Add-Ons next to the role name
   * <font color=green>ON</font>: Add-Ons will be displayed next to players' Roles
   * <font color=red>OFF</font>: Add-Ons will not be displayed next to players' Roles
-* Players can have multiple Add-Ons
-  * <font color=green>ON</font>: Players can have more than one Add-On (up to 15)
-  * <font color=red>OFF</font>: Add-Ons will be handed out as they normally would
 * Add Brackets To Add-Ons
   * <font color=green>ON</font>: Brackets will appear around a players’ Add-Ons for a cleaner look
   * <font color=red>OFF</font>: Add-Ons will be displayed as they normally would
+* Show Short Names For Add-Ons
+  * <font color=red>Disable</font>: Add-Ons will be never be abbreviated
+  * <font color=green>Always</font>: Add-Ons will always be abbreviated
+  * <font color=cyan>Only In Meeting</font>: Add-Ons will only be abbreviated when in meeting
+  * <font color=cyan>Only In Game</font>: Add-Ons will only be abbreviated when not in meeting
+* Maximum Add-ons Per Player
+  * Maximum number of add-ons a player can spawn with
+* Remove Incompatible Addons for role assigned mid game
+  * Remove conflicting add-on if assigned mid game
 </details>
