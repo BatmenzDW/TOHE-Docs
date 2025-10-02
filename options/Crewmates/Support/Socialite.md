@@ -22,7 +22,7 @@ The Socialite may also vote a player during a meeting to add that player to the 
 * Reset Parties After Meetings
   * Set how long a Spiritualist has to wait to see a Ghost arrow pop-up
 
-> From: Idea ? Coding: [Marg](https://github.com/MargaretTheFool)
+> From: Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
